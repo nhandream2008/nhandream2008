@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hey, I'm [Nhandream]  
 
-<!--
-**nhandream2008/nhandream2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Full Stack Developer**, passionate about technology, programming, and building creative solutions.  
+I work with **Front End and Back End**, exploring modern languages and frameworks to deliver high-quality projects.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+- 🌱 Currently learning **Next.js** and **Cloud Computing**  
+- 🎯 Goal: Become a **Senior Full Stack Developer**  
+- 🎮 In my free time I enjoy playing video games and contributing to open-source projects  
+
+---
+
+## 🚀 Languages & Tools
+
+<div align="center">
+  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)  ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=fff)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)  ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=fff)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=fff)  ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=fff)  ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)  
+
+</div>
+
+---
+
+## 📌 Pinned Projects
+
+<a href="https://github.com/YOUR_USERNAME/api-rest-client-orders">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=api-rest-client-orders&theme=radical" />
+</a>
+<a href="https://github.com/YOUR_USERNAME/blue-weather-react-app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=blue-weather-react-app&theme=radical" />
+</a>
+
+---
+
+## 🌐 Contact
+📩 Email: **nhandreamowo@gmail.com**  
+🌎 Portfolio: [https://nhandreammprofifle](https://www.nhandream.xyz/)
