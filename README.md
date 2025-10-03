@@ -27,7 +27,6 @@ I work with **Front End and Back End**, exploring modern languages and framework
 
 ## 📌 Pinned Projects
 [https://nhandreammprofifle](https://www.nhandream.xyz/)
-[[https://nhandreammprofifle](https://frierenweb-theta.vercel.app/)
 ---
 
 ## 🌐 Contact
