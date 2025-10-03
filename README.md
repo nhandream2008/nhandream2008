@@ -9,7 +9,23 @@ I work with **Front End and Back End**, exploring modern languages and framework
 - 🌱 Currently learning **Next.js** and **Cloud Computing**  
 - 🎯 Goal: Become a **Senior Full Stack Developer**  
 - 🎮 In my free time I enjoy playing video games and contributing to open-source projects  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 
+</div>
+  
+###
+![Python](https://img.icons8.com/?size=40&id=13441&format=png&color=000000)
 ---
 
 ## 🚀 Languages & Tools
