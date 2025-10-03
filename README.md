@@ -26,6 +26,7 @@ I work with **Front End and Back End**, exploring modern languages and framework
 ---
 
 ## 📌 Pinned Projects
+<img width="1904" height="1071" alt="image" src="https://github.com/nhandream2008/profile-assets/blob/main/Screenshot%202025-10-03%20140519.png?raw=true" />
 [https://nhandreammprofifle](https://www.nhandream.xyz/)
 ---
 
