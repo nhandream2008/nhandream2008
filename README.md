@@ -23,6 +23,8 @@ I work with **Front End and Back End**, exploring modern languages and framework
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 
 </div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
+
   
 ###
 ![Python](https://img.icons8.com/?size=40&id=13441&format=png&color=000000)
