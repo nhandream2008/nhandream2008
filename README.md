@@ -1,7 +1,7 @@
 # 👋 Hey, I'm [Nhandream]  
 
-I’m a **Full Stack Developer**, passionate about technology, programming, and building creative solutions.  
-I work with **Front End and Back End**, exploring modern languages and frameworks to deliver high-quality projects.  
+I'm a **Full Stack Developer & Arduino Enthusiast**, passionate about technology, programming, and building creative solutions.  
+I work with **Front End, Back End, and Embedded Systems**, exploring modern languages and frameworks — including hands-on hardware projects with **Arduino** — to deliver high-quality projects.
 
 ---
 
