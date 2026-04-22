@@ -23,7 +23,6 @@ I work with **Front End and Back End**, exploring modern languages and framework
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
 </div>
----
 
 ## 🚀 Languages & Tools
 
