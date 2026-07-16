@@ -24,15 +24,6 @@ I work with **Front End, Back End, and Embedded Systems**, exploring modern lang
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
 </div>
 
-## 🚀 Languages & Tools
-
-<div align="center">
-  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)  ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=fff)  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)  ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=fff)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=fff)  ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=fff)  ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)  ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=fff) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)
-
 
 </div>
 
