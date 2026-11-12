@@ -1,4 +1,4 @@
-<img width="1870" height="923" alt="image" src="https://github.com/user-attachments/assets/84a6a713-bea8-47c0-a706-7448c3e1b9a5" /># 👋 Hey, I'm [Nhandream]  
+👋 Hey, I'm [Nhandream]  
 
 I'm a **Full Stack Developer & Arduino Enthusiast**, passionate about technology, programming, and building creative solutions.  
 I work with **Front End, Back End, and Embedded Systems**, exploring modern languages and frameworks — including hands-on hardware projects with **Arduino** — to deliver high-quality projects.
