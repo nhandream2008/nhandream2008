@@ -1,4 +1,4 @@
-# 👋 Hey, I'm [Nhandream]  
+<img width="1870" height="923" alt="image" src="https://github.com/user-attachments/assets/84a6a713-bea8-47c0-a706-7448c3e1b9a5" /># 👋 Hey, I'm [Nhandream]  
 
 I'm a **Full Stack Developer & Arduino Enthusiast**, passionate about technology, programming, and building creative solutions.  
 I work with **Front End, Back End, and Embedded Systems**, exploring modern languages and frameworks — including hands-on hardware projects with **Arduino** — to deliver high-quality projects.
@@ -30,7 +30,7 @@ I work with **Front End, Back End, and Embedded Systems**, exploring modern lang
 ---
 
 ## 📌 Pinned Projects
-<img width="1904" height="1071" alt="image" src="https://github.com/nhandream2008/profile-assets/blob/main/Screenshot%202025-10-03%20140519.png?raw=true" />
+<img width="1904" height="1071" alt="image" src="https://github.com/nhandream2008/profile-assets/blob/main/%7B0CE66462-25AA-47D9-8C85-AA61FDE68147%7D.png?raw=true" />
 ---
 
 ## 🌐 Contact
